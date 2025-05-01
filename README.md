@@ -1,2 +1,2 @@
 # php-cs
-Classic Algorithms and Data Structures in PHP
+PHP coding practice
